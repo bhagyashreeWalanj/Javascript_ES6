@@ -1,4 +1,4 @@
-# Javascript_ES6
+# Javascript ES6 : Practices
 ES6 practices
 
 
